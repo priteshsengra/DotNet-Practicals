@@ -1,0 +1,7 @@
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\bin\Practical-8.dll.config
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\bin\Practical-8.dll
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\bin\Practical-8.pdb
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\obj\Debug\Practical-8.csprojAssemblyReference.cache
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\obj\Debug\Practical-8.csproj.CoreCompileInputs.cache
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\obj\Debug\Practical-8.dll
+D:\5HY4M\DOTNET PRACTICAL\Practical-8\Practical-8\obj\Debug\Practical-8.pdb
