@@ -1,0 +1,7 @@
+F:\16ce028\WebApplication6\WebApplication1\bin\WebApplication1.dll
+F:\16ce028\WebApplication6\WebApplication1\bin\WebApplication1.pdb
+F:\16ce028\WebApplication6\WebApplication1\bin\WebApplication6.dll
+F:\16ce028\WebApplication6\WebApplication1\bin\WebApplication6.pdb
+F:\16ce028\WebApplication6\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\16ce028\WebApplication6\WebApplication1\obj\Debug\WebApplication1.dll
+F:\16ce028\WebApplication6\WebApplication1\obj\Debug\WebApplication1.pdb
